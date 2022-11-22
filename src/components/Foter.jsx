@@ -15,6 +15,7 @@ export const Foter = () => {
             <p className="my-3" style={{ width: '250px' }}>
               Nuestro Objetivo siempre sera tener todo lo que buscas
               ¡Tormenta!
+              
             </p>
             <CDBBox display="flex" className="mt-4">
               <CDBBtn flat color="dark">
